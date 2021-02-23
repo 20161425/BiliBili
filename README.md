@@ -1,7 +1,9 @@
 # 哔哩哔哩下载播放工具
 
 
-哔哩哔哩下载播放工具
+哔哩哔哩下载播放工具 BiliBliDownloader&Player
+
+仅用作学习交流
 
 主程序：Main.cmd
 
