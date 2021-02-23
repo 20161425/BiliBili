@@ -1,0 +1,1 @@
+WScript.echo(encodeURIComponent(WScript.Arguments(0)));
