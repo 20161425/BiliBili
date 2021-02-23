@@ -1,7 +1,7 @@
 # 哔哩哔哩下载播放工具
 
 
-哔哩哔哩下载播放工具 BiliBliDownloader&Player
+哔哩哔哩下载播放工具 BiliBli Downloader&Player
 
 仅用作学习交流
 
